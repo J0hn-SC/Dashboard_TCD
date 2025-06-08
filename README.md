@@ -5,3 +5,6 @@ La enfermedad por coronavirus 2019 (COVID-19), causada por el virus SARS-CoV-2, 
 La pandemia evidenció las profundas desigualdades estructurales presentes en muchas regiones. Las poblaciones que ya enfrentaban condiciones sociales y económicas precarias —como acceso limitado a servicios de salud, empleo, mayor densidad poblacional, o mayor número de personas de edad avanzada— fueron particularmente vulnerables a una mayor propagación del virus.
 
 En muchos casos, la ausencia de información clara sobre qué factores sociodemográficos influían con mayor peso en la dinámica de contagio dificultó la toma de decisiones efectivas por parte de las autoridades. Esta falta de conocimiento impidió aplicar medidas focalizadas que protegieran a los sectores más expuestos, limitando así la capacidad de respuesta y aumentando el impacto del virus en comunidades ya desfavorecidas.
+
+Enlace de visualización
+https://j0hn-sc.github.io/Dashboard_TCD/ 
